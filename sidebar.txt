@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gix:home|Door43 (gix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gix|d43-gix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gix/archive/master.zip|d43-gix.zip]]
+
+**Recent Changes**
+{{changes>ns = gix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gix|Ethnologue data]]
+
